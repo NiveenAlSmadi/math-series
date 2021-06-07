@@ -10,4 +10,4 @@ Author: Niveen ALsmadi Version: 1.0.0
 - Finish time: 3:30 pm
 
 ## Links:
-PR Link :[math_series](https://github.com/NiveenAlSmadi/math_series/pull/1/)
+PR Link :[math_series](https://github.com/NiveenAlSmadi/math-series/pull/1)
