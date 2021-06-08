@@ -1,5 +1,10 @@
 
-# fibonacci function 
+# ---------------------------------------------fibonacci function--------------------------------------------------
+"""
+ fibonacci for sum serise with first value 0 for n=0 and 1 for n =1
+ implimenting function using : recursion.
+
+"""
 def fibonacci(n):
 
 
@@ -12,7 +17,16 @@ def fibonacci(n):
 
 
 
-#lucas function 
+#------------------------------------------------------lucas function -------------------------------------------------
+
+
+
+"""
+
+lucas for sum serise with first value 2 for n=0 and 1 for n =1
+implimenting function using : recursion.
+
+"""
 def lucas(n):
 
 
@@ -26,7 +40,16 @@ def lucas(n):
 
 
 
-# sum_series function 
+# ----------------------------------------------------sum_series function -----------------------------------------------------
+
+"""
+
+ function cheack if the  input  fibonacci or lucas or the sum of both.......
+ n  index use to make a serise
+ n1  for  determine the base case for index 0
+ n2  for determine the base case for index 1
+
+"""
 def sum_series(n,n1=0,n2=1):
 
 
